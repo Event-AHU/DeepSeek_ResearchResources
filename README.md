@@ -23,5 +23,6 @@ A collection of research resources on DeepSeek
 
 ### Video Tutorials 
 
+* 【震撼】引發全球大衝擊的DeepSeek，已經點燃中美之間一場沒有硝煙的戰爭 | 老高與小茉 Mr & Mrs Gao [[Youtube](https://youtu.be/uKBI1Ea8VO0?si=OK_krbHW4wKIA-eg)]
 
 
