@@ -84,4 +84,21 @@ A collection of research resources on DeepSeek
 
 * **Youtube**: 【震撼】引發全球大衝擊的DeepSeek，已經點燃中美之間一場沒有硝煙的戰爭 | 老高與小茉 Mr & Mrs Gao [[Youtube](https://youtu.be/uKBI1Ea8VO0?si=OK_krbHW4wKIA-eg)]
 * **Youtube**: [Deep Dive into LLMs like ChatGPT](https://youtu.be/7xTGNNLPyMI?si=MEY5mpzUpL39nPrq)
+  
+* 【中文】**EZ撸paper: DeepSeek-V3 技术报告详细解读 part1 | 开源最强模型 | 性价比之王**
+  [Youtube](https://youtu.be/axlQI7fGn_8?si=RJPVkw5lhI4uqlrf)
+* 【中文】**EZ撸paper: DeepSeek-V3 技术报告详细解读 part2 | 开源最强模型 | 性价比之王的核心技术MLA**
+  [Youtube](https://youtu.be/OM7Sa_BlDIk?si=UZ7f8-SsTqpI9JIH)
+* 【中文】**EZ撸paper: DeepSeek-V3 论文中的隐藏细节 (part 3)：你不知道的关键点！| 可能存在的问题 | 论文深度解读+独家分析**
+  [Youtube](https://youtu.be/P7txFafuUOE?si=h3ajFiKswWqFDve0) 
+* 【中文】**EZ撸paper: DeepSeek-V3 论文中的隐藏细节 (part 4)：从入门到精通DeepSeek multi-token prediction | 论文深度解读+独家分析**
+  [Youtube](https://youtu.be/WHIuGr7iNi0?si=Ce1ksIjyR_rUVJhG)
+
+* 【中文】**EZ撸paper: DeepSeek-R1 论文详解 part 1：比肩 OpenAI-o1，如何做到的？| 论文深度解读+独家分析 #deepseek**
+  [Youtube](https://youtu.be/tRuN8xYdETs?si=bDt5x3lQQSHX6f7t)
+* 【中文】**EZ撸paper: DeepSeek-R1 论文详解 part 2：AGI是什么? | Reinforcement Learning快速入门 | AlphaGo介绍 #deepseek**
+  [Youtube](https://youtu.be/_dLlfAPuilM?si=m01kCPrf3X_vRJEJ) 
+* 【中文】**EZ撸paper: DeepSeek-R1 论文详解 part 3：GPT发展史 | scaling law | 训练范式 | emergent ability #deepseek**
+  [Youtube](https://youtu.be/6fPvbIFF_wY?si=V6FV2xE_lpRmyh08) 
+
 
