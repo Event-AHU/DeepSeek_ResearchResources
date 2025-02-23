@@ -1,3 +1,12 @@
+
+
+
+<p align="center">
+<img src="https://github.com/Event-AHU/DeepSeek_ResearchResources/blob/main/deepseek.jpg" width="800">
+</p>
+
+
+
 # DeepSeek_ResearchResources
 A collection of research resources on DeepSeek
 
