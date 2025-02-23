@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://github.com/Event-AHU/DeepSeek_ResearchResources/blob/main/deepseek.jpg" width="800">
+<img src="https://github.com/Event-AHU/DeepSeek_ResearchResources/blob/main/deepseek.jpg" width="600">
 </p>
 
 
