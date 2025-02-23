@@ -4,6 +4,11 @@ A collection of research resources on DeepSeek
 
 ### Paper List 
 
+
+* **Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention**,
+  Jingyang Yuan, Huazuo Gao, Damai Dai, Junyu Luo, Liang Zhao, Zhengyan Zhang, Zhenda Xie, Y. X. Wei, Lean Wang, Zhiping Xiao, Yuqing Wang, Chong Ruan, Ming Zhang, Wenfeng Liang, Wangding Zeng
+  [[Paper](https://arxiv.org/abs/2502.11089)]
+  
 * **DeepSeek-V3 Technical Report**:
   [[Paper](https://arxiv.org/abs/2412.19437)] 
   [[Code](https://github.com/deepseek-ai/DeepSeek-V3)] 
