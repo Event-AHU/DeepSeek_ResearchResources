@@ -114,11 +114,15 @@ A collection of research resources on DeepSeek
 * 【中文】**EZ撸paper: DeepSeek-R1 论文详解 part 3：GPT发展史 | scaling law | 训练范式 | emergent ability #deepseek**
   [Youtube](https://youtu.be/6fPvbIFF_wY?si=V6FV2xE_lpRmyh08)
 
+
+
 ---------------------------------------- **DeepSeek 本地部署 + RAG + 微调** 
 * **DeepSeek R1本地部署+搭建企业级知识库+本地化RAG知识库+Lora微调训练** [[Youtube](https://youtu.be/OEIrZRwR_Mg?si=K6TQcpLYIcZwj3wn)]
 * **教你搭建一个无限制、可联网、带本地知识库的私人 DeepSeek!** [[Youtube](https://youtu.be/WF4x-wATlJI?si=RNLBWlQg_UlC_EiD)]
 * **【全748集】清华大佬终于把AI大模型（LLM+RAG+GPT 4o+Op）讲清楚了！零基础易学1** [[Youtube](https://youtu.be/hJgfVNKcv-4?si=p0ngfDUdvV6BJMf9)]
 * **【全748集】清华大佬终于把AI大模型（LLM+RAG+GPT 4o+Op）讲清楚了！零基础易学2** [[Youtube](https://youtu.be/lAmdZYUeYDg?si=Yq29zTrXJ8KdgS5r)]
+
+
 
 
 ---------------------------------------- **浙江大学DeepSeek系列公开课** 
@@ -127,9 +131,21 @@ A collection of research resources on DeepSeek
 * **浙江大学DeepSeek系列公开课｜王则可研究员：DeepSeek模型优势：算力、成本角度解读** [[Youtube](https://youtu.be/alNL9JiqQ-s?si=3iQSFirnQKJc_fPp)]
 * 
 
+
+
 ----------------------------------------- **娱乐博主**
 * **Youtube**: 【震撼】引發全球大衝擊的DeepSeek，已經點燃中美之間一場沒有硝煙的戰爭 | 老高與小茉 Mr & Mrs Gao [[Youtube](https://youtu.be/uKBI1Ea8VO0?si=OK_krbHW4wKIA-eg)]
 * **Youtube**: [Deep Dive into LLMs like ChatGPT](https://youtu.be/7xTGNNLPyMI?si=MEY5mpzUpL39nPrq)
+
+
+----------------------------------------- **其他**
+* **DeepSeek大模型原理与落地应用**——北京大学，北京大学博士 北京大学软件学院特约讲师，肖睿博士分享。DeepSeek创新分享，适合大模型领域小白整体了解大模型领域发展。
+[[Paper](https://youtu.be/SI87BnhkLwU?si=ljzbovLCCCW9Rxu3)] 
+
+
+
+
+
 
 
 
