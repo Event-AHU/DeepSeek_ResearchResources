@@ -89,6 +89,7 @@ A collection of research resources on DeepSeek
   Niklas Muennighoff, Zitong Yang, Weijia Shi, Xiang Lisa Li, Li Fei-Fei, Hannaneh Hajishirzi, Luke Zettlemoyer, Percy Liang, Emmanuel Candès, Tatsunori Hashimoto
   [[Paper](https://arxiv.org/abs/2501.19393)]
   [[Code](https://github.com/simplescaling/s1)]
+* **Code-R1: Reproducing R1 for Code with Reliable Rewards** [[Github](https://github.com/ganler/code-r1)]
 
 
 
