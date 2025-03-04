@@ -140,7 +140,7 @@ A collection of research resources on DeepSeek
 
 ----------------------------------------- **其他**
 * **DeepSeek大模型原理与落地应用**——北京大学，北京大学博士 北京大学软件学院特约讲师，肖睿博士分享。DeepSeek创新分享，适合大模型领域小白整体了解大模型领域发展。
-[[Paper](https://youtu.be/SI87BnhkLwU?si=ljzbovLCCCW9Rxu3)] 
+[[Youtube](https://youtu.be/SI87BnhkLwU?si=ljzbovLCCCW9Rxu3)] 
 
 
 
