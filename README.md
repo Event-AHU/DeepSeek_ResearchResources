@@ -90,7 +90,9 @@ A collection of research resources on DeepSeek
   [[Paper](https://arxiv.org/abs/2501.19393)]
   [[Code](https://github.com/simplescaling/s1)]
 * **Code-R1: Reproducing R1 for Code with Reliable Rewards** [[Github](https://github.com/ganler/code-r1)]
-
+* **R1-Zero’s “Aha Moment” in Visual Reasoning on an 2B Non-SFT Model**
+  [[Blog](https://turningpointai.notion.site/the-multimodal-aha-moment-on-2b-model)]
+  [[Code](https://github.com/turningpoint-ai/VisualThinker-R1-Zero)]
 
 
 ### Blogs 
