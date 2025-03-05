@@ -146,6 +146,8 @@ A collection of research resources on DeepSeek
   [[Youtube](https://youtu.be/SI87BnhkLwU?si=ljzbovLCCCW9Rxu3)]
 * **哈尔滨工业大学“DeepSeek技术前沿与应用”专题讲座**
   [[Youtube](https://youtu.be/oGuOiCgB7AY?si=iV1Fo6HkG_dQUNJh)]
+* **《DeepSeek的理论到应用讲解》主讲人：天津大学智算学部王征教授**
+  [[Youtube](https://youtu.be/8d87jHXzHq8?si=rHQj3m6hmFEZDBs8)]
 
 
 
