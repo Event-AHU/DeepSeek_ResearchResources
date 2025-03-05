@@ -96,7 +96,7 @@ A collection of research resources on DeepSeek
 
 
 ### Blogs 
-
+* [https://turningpointai.notion.site/the-multimodal-aha-moment-on-2b-model](https://turningpointai.notion.site/the-multimodal-aha-moment-on-2b-model)
 
 
 ### Video Tutorials 
