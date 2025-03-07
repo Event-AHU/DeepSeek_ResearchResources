@@ -132,7 +132,9 @@ A collection of research resources on DeepSeek
 * **浙江大学DeepSeek系列公开课｜吴飞教授：DeepSeek：回望AI三大主义与加强通识教育** [[Youtube](https://youtu.be/3g4i_D1tEYg?si=2N60SR9nyIklEFL0)]
 * **浙江大学DeepSeek系列公开课｜陈文智教授：Chatting or Acting？——DeepSeek的突破边界与“浙大先生”的未来图景** [[Youtube](https://youtu.be/oWEQKl0eO98?si=LFHr_oEJK3QXcj3-)]
 * **浙江大学DeepSeek系列公开课｜王则可研究员：DeepSeek模型优势：算力、成本角度解读** [[Youtube](https://youtu.be/alNL9JiqQ-s?si=3iQSFirnQKJc_fPp)]
-* 
+* **浙江大学DeepSeek系列公开课｜吴超副教授：走向数字社会：从Deepseek到群体智慧** [[Youtube](https://youtu.be/3GB6j3vpevo?si=CL1FsuBJ4ySMPTWY)] 
+* **浙江大学DeepSeek系列公开课｜陈静远研究员：语言解码双生花：人类经验与AI算法的镜像之旅** [[Youtube](https://youtu.be/MIG6w4YwZAw?si=hfjUMEZSF35z9v1-)] 
+
 
 
 
