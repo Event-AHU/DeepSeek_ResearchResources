@@ -151,10 +151,10 @@ A collection of research resources on DeepSeek
 ----------------------------------------- **其他**
 * **DeepSeek大模型原理与落地应用**——北京大学，北京大学博士 北京大学软件学院特约讲师，肖睿博士分享。DeepSeek创新分享，适合大模型领域小白整体了解大模型领域发展。
   [[Youtube](https://youtu.be/SI87BnhkLwU?si=ljzbovLCCCW9Rxu3)]
-* **哈尔滨工业大学“DeepSeek技术前沿与应用”专题讲座**
-  [[Youtube](https://youtu.be/oGuOiCgB7AY?si=iV1Fo6HkG_dQUNJh)]
-* **《DeepSeek的理论到应用讲解》主讲人：天津大学智算学部王征教授**
-  [[Youtube](https://youtu.be/8d87jHXzHq8?si=rHQj3m6hmFEZDBs8)]
+* **哈尔滨工业大学“DeepSeek技术前沿与应用”专题讲座**  [[Youtube](https://youtu.be/oGuOiCgB7AY?si=iV1Fo6HkG_dQUNJh)]
+* **《DeepSeek的理论到应用讲解》主讲人：天津大学智算学部王征教授**  [[Youtube](https://youtu.be/8d87jHXzHq8?si=rHQj3m6hmFEZDBs8)]
+* **北京大学内部研讨系列DeepSeek原理与落地应用 北大数智教育发展沙龙** [[Youtube](https://youtu.be/50wMPDg4qbw?si=-UlBvCpNH_Yavmar)] 
+* **【现场版】AI肖睿团队受邀北京大学图书馆讲座DeepSeek原理与落地应用** [[Youtube](https://youtu.be/p6RKdgskIFc?si=dNLKZCTKmh1KRwA8)]
 
 
 
