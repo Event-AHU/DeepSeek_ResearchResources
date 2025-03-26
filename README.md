@@ -138,6 +138,8 @@ A collection of research resources on DeepSeek
 * **浙江大学DeepSeek系列公开课｜朱朝阳老师：DeepSeek之火，可以燎原** [[Youtube](https://youtu.be/HuBSgf2CUFE?si=XBASVoDlZ_N5tAQZ)] 
 * **浙江大学DeepSeek系列公开课｜肖俊教授：从大模型、智能体到复杂AI应用系统的构建——以产业大脑** [[Youtube](https://youtu.be/WqFxFNOLGLU?si=QHRS-7JjPXx5ixjI)] 
 * **浙江大学DeepSeek系列公开课｜朱强教授：DeepSeek技术溯源及前沿探索** [[Youtube](https://youtu.be/_yY0wCK9qlM?si=LU8uHqcL4vP7Futr)] 
+* **浙江大学DeepSeek系列公开课｜朱霖潮研究员：人工智能重塑科学与工程研究** [[Youtube](https://youtu.be/bUx8UMfd2OE?si=6KpLrGwE2jWX1lOS)] 
+* **浙江大学DeepSeek系列公开课｜郑小林教授：智能金融：AI 驱动的金融变革** [[Youtube](https://youtu.be/7QoyUnYe5ww?si=9EGKtxrWq5C5oUpK)] 
 
 
 
