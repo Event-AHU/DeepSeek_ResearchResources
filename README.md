@@ -115,7 +115,8 @@ A collection of research resources on DeepSeek
 * 【中文】**EZ撸paper: DeepSeek-R1 论文详解 part 2：AGI是什么? | Reinforcement Learning快速入门 | AlphaGo介绍 #deepseek**
   [Youtube](https://youtu.be/_dLlfAPuilM?si=m01kCPrf3X_vRJEJ) 
 * 【中文】**EZ撸paper: DeepSeek-R1 论文详解 part 3：GPT发展史 | scaling law | 训练范式 | emergent ability #deepseek**
-  [Youtube](https://youtu.be/6fPvbIFF_wY?si=V6FV2xE_lpRmyh08)
+  [Youtube](https://youtu.be/6fPvbIFF_wY?si=V6FV2xE_lpRmyh08) 
+
 
 
 
@@ -140,6 +141,14 @@ A collection of research resources on DeepSeek
 * **浙江大学DeepSeek系列公开课｜朱强教授：DeepSeek技术溯源及前沿探索** [[Youtube](https://youtu.be/_yY0wCK9qlM?si=LU8uHqcL4vP7Futr)] 
 * **浙江大学DeepSeek系列公开课｜朱霖潮研究员：人工智能重塑科学与工程研究** [[Youtube](https://youtu.be/bUx8UMfd2OE?si=6KpLrGwE2jWX1lOS)] 
 * **浙江大学DeepSeek系列公开课｜郑小林教授：智能金融：AI 驱动的金融变革** [[Youtube](https://youtu.be/7QoyUnYe5ww?si=9EGKtxrWq5C5oUpK)] 
+* **浙江大学DeepSeek系列公开课｜况琨副教授：生成式人工智能赋能智慧司法及相关思考** [[Youtube](https://youtu.be/D3pB2hSdqKw?si=wAU_VVSNpkCXOPqa)]
+* **浙江大学DeepSeek系列公开课｜姚畅研究员：AI大模型如何破局传统医疗** [[Youtube](https://youtu.be/e5zSEMTPdyA?si=bhDoqCp73g-UqKPo)]
+* **浙江大学DeepSeek系列公开课｜杨洋教授：大模型：从单词接龙到行业落地** [[Youtube](https://youtu.be/mR_1WrxesJ4?si=U5Av807CKGKWR_8T)]
+* **浙江大学DeepSeek系列公开课｜张圣宇研究员：大小模型端云协同赋能人机交互** [[Youtube](https://youtu.be/u1K_xSMneSY?si=5pqITtKVT1EdWuaC)]
+* 
+
+
+
 
 
 
