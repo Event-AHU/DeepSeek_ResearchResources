@@ -146,6 +146,7 @@ A collection of research resources on DeepSeek
 * **浙江大学DeepSeek系列公开课｜杨洋教授：大模型：从单词接龙到行业落地** [[Youtube](https://youtu.be/mR_1WrxesJ4?si=U5Av807CKGKWR_8T)]
 * **浙江大学DeepSeek系列公开课｜张圣宇研究员：大小模型端云协同赋能人机交互** [[Youtube](https://youtu.be/u1K_xSMneSY?si=5pqITtKVT1EdWuaC)]
 * **浙江大学DeepSeek系列公开课｜马东方教授：走进海洋人工智能的未来** [[Youtube](https://youtu.be/KxF9-SBlXLU?si=2wNljWeikmTtVznB)]
+* **浙江大学DeepSeek系列公开课｜唐谈研究员：当艺术遇见AI：科艺融合的新探索** [[Youtube](https://youtu.be/kyaZ4sO8p_k?si=hpfNuL3RjZsvwqQE)] 
 
 
 
